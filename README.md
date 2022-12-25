@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aryan Vyas</h1>
 <h3 align="center">I am a Computer Science Engineering undergraduate with interests in Data Science and Data Analytics.</h3>
 
-- ⚡ Fun fact **I'm 💀**
 - 😈 Still We Rise 
 
 <p align="left">
