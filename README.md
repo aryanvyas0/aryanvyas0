@@ -2,6 +2,7 @@
 <img align="right" alt="GIF" src="https://github.com/aryanvyas0/aryanvyas0/blob/main/boof.jpeg" width="300" height="300" />
 <h3 align="center">I am a Computer Science Engineering undergraduate with interests in Data Science, Data Mining and Cloud Computing.</h3>
 
+✅ AWS Certified Cloud Practitioner \
 😈 Still We Rise 
 
 <p align="left">
